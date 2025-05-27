@@ -104,3 +104,14 @@ body{
     margin: 0;
     font-size: 24px;
 }
+
+label{
+    
+}
+
+@media screen and (min-width:768x) {
+    .parametro-coluna__senha {
+        flex-direction: row;
+    }
+    
+}
